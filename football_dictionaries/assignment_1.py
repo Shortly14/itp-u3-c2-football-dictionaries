@@ -12,7 +12,7 @@ def players_as_dictionaries(squads_list):
             'club_country': player[7],
             'year': player[8]
         }
-        players.append()
+        players.append(player1)
     return players
 
         
